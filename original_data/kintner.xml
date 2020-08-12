@@ -1,0 +1,2456 @@
+<repository xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"      xmlns:dc="http://purl.org/dc/elements/1.1/"      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<record>
+<header>
+<identifier>kintner_39</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from High Rocks to Fontana Lake</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <subject>
+    <topic>Fontana Lake</topic>
+  </subject>
+  <note>From High Rocks to Fontana Lake / &quot;30 Jul hiked from Forney Creek back to dam.&quot;</note>
+  <originInfo>
+    <dateOther>1975 July 30</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">7764-7765</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A39</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A39/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_4</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Panorama taken from an unidentified fire tower</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <note>uncaptioned</note>
+  <originInfo>
+    <dateOther>circa 1968</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">1356-1358</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A4</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A4/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_56</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Telephoto shot of Parson Bald</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Parson Bald</topic>
+  </subject>
+  <subject>
+    <topic>Gregory Bald</topic>
+  </subject>
+  <note>Telephoto shot of Parson Bald from Gregory</note>
+  <note>Two frame telephoto panorama with a view of Parson Bald from Gregory Bald.</note>
+  <originInfo>
+    <dateOther>1974 December 10</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">6949-6950</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A56</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A56/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_12</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Looking Southeast from Cove Mountain ? Annotated</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Cove Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Mount Le Conte</topic>
+  </subject>
+  <subject>
+    <topic>Bullhead</topic>
+  </subject>
+  <subject>
+    <topic>Newfound Gap</topic>
+  </subject>
+  <subject>
+    <topic>Mount Mingus</topic>
+  </subject>
+  <subject>
+    <topic>Rocky Spur</topic>
+  </subject>
+  <subject>
+    <topic>Cove Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Annotated</topic>
+  </subject>
+  <note>From Cove Mountain Looking Southeast: Mt Le Conte, Bull Head, Newfound Gap, and Mt Mingus.</note>
+  <note>Panorama taken looking Southeast from the Cove Mountain Fire Tower, which is still standing, viewing Rocky Spur on the left and Mount Mingus on the right.</note>
+  <originInfo>
+    <dateOther>February 20, 1972</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">3711-3713-annotated</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A12</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A12/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_26</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of Little Shuckstack</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Shuckstack</topic>
+  </subject>
+  <subject>
+    <topic>Snow and ice</topic>
+  </subject>
+  <note>Hike to Shuckstack where there was a little frost.</note>
+  <note>Panorama taken looking West from the Shuckstack Fire Tower, which is still standing.</note>
+  <originInfo>
+    <dateOther>February 23, 1974</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">6257-6264</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A26</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A26/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_5</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>On top of the Hangover</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Clingmans Dome</topic>
+  </subject>
+  <note>We had lunch on top of Hangover.  You can see Clingmans Dome, 30 miles away!</note>
+  <originInfo>
+    <dateOther>February 1981</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">1357-1358</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A5</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A5/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_13</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Looking Southeast from Cove Mountain</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Cove Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Mount Le Conte</topic>
+  </subject>
+  <subject>
+    <topic>Bullhead</topic>
+  </subject>
+  <subject>
+    <topic>Newfound Gap</topic>
+  </subject>
+  <subject>
+    <topic>Mount Mingus</topic>
+  </subject>
+  <subject>
+    <topic>Rocky Spur</topic>
+  </subject>
+  <subject>
+    <topic>Cove Mountain</topic>
+  </subject>
+  <note>From Cove Mountain Looking Southeast: Mt Le Conte, Bull Head, Newfound Gap, and Mt Mingus.</note>
+  <note>Panorama taken looking Southeast from the Cove Mountain Fire Tower, which is still standing, viewing Rocky Spur on the left and Mount Mingus on the right.</note>
+  <originInfo>
+    <dateOther>February 20, 1972</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">3711-3713</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A13</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A13/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_34</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Early morning on Kephart Prong</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Kephart Prong</topic>
+  </subject>
+  <note>Early morning on Kephart Prong / &quot;23 Jul 1975, Kephart Pr Sweat Heifer, AT, Richland Mtn, Grassy Br.&quot;</note>
+  <originInfo>
+    <dateOther>1975 July 23</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">7721-7723</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A34</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A34/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_47</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of Clingman's Dome from the Thomas Divide Trail</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Clingmans Dome</topic>
+  </subject>
+  <subject>
+    <topic>Thomas Divide</topic>
+  </subject>
+  <note>Clingman's Dome from Thomas Divide Trail / &quot;9 Feb 1976 hiked Newton Bald, Thomas Divide&quot;</note>
+  <originInfo>
+    <dateOther>1976 February 9</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">8391-8392</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A47</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A47/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_16</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Looking Southwest from Cove Mountain</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Cove Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Round Top</topic>
+  </subject>
+  <subject>
+    <topic>Townsend</topic>
+  </subject>
+  <note>From Cove Mountain Looking Southwest: Round Top and Townsend.</note>
+  <originInfo>
+    <dateOther>February 20, 1972</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">3727-3729</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A16</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A16/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_21</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from High Rocks</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <originInfo>
+    <dateOther>February 1973</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">5130-5135</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A21</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A21/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_35</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of the Appalachian Trail ? Annotated</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Appalachian Trail</topic>
+  </subject>
+  <subject>
+    <topic>The Jump-off</topic>
+  </subject>
+  <subject>
+    <topic>Mount Kephart</topic>
+  </subject>
+  <subject>
+    <topic>Porters Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Richland Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Annotated</topic>
+  </subject>
+  <note>A view of the AT to the east from Jumpoff</note>
+  <note>View looking East from the Jump-Off on Mount Kephart looking at Porters Mountain on left and Richland Mountain on right.</note>
+  <originInfo>
+    <dateOther>1975 July 23</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">7731-7732-annotated</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A35</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A35/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_42</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Spruce Mountain Tower ? Annotated</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Spruce Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Mount Le Conte</topic>
+  </subject>
+  <subject>
+    <topic>Porters Gap</topic>
+  </subject>
+  <subject>
+    <topic>Mount Guyot</topic>
+  </subject>
+  <subject>
+    <topic>Mount Sequoyah</topic>
+  </subject>
+  <subject>
+    <topic>Mount Chapman</topic>
+  </subject>
+  <subject>
+    <topic>Old Black</topic>
+  </subject>
+  <subject>
+    <topic>Annotated</topic>
+  </subject>
+  <note>From Spruce Mtn tower looking to NW; LeConte, Porter Gap, Sequoyah, Chapman, Guyot - old Black</note>
+  <note>Panorama taken looking Northeast from the Spruce Mountain Fire Tower with Laurel Top at left and Old Black at right. Spruce Mountain Fire Tower is no longer standing.</note>
+  <originInfo>
+    <dateOther>1975 September 9</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">7893-7894-annotated</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A42</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A42/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_44</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>High Rocks and Welch Ridge from south Silers Bald</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <subject>
+    <topic>Welch Ridge</topic>
+  </subject>
+  <subject>
+    <topic>Silers Bald</topic>
+  </subject>
+  <subject>
+    <topic>Forney Ridge</topic>
+  </subject>
+  <note>(69) &quot;High Rocks and Welch Ridge south Silers Bald&quot; / &quot;On Oct 21?&quot; / (70) &quot;Forney Ridge in distance from Silers Bald&quot; / &quot;On Oct 21?&quot;</note>
+  <originInfo>
+    <dateOther>1975 Ocboter 21</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">8069-8070</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A44</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A44/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_22</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from High Rocks</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <originInfo>
+    <dateOther>February 1973</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">5137-5138</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A22</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A22/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_51</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Silkrock Valley and Chilhowees</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <note>Then as we looked to the north we saw the rest Slickrock valley and Chilhowees in distance. / &quot;9 Apr 1977?&quot;</note>
+  <originInfo>
+    <dateOther>1977 April 09</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">9630-9632</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A51</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A51/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_30</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Looking toward Mount Le Conte</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Cove Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Mount Le Conte</topic>
+  </subject>
+  <note>Thermal inversion, 40 below and 55 on top, looking toward Le Conte.</note>
+  <originInfo>
+    <dateOther>December 26, 1974</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">6994-6995</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A30</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A30/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_41</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of Fontana Village</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Fontana Old Town</topic>
+  </subject>
+  <subject>
+    <topic>Shuckstack</topic>
+  </subject>
+  <note>Fontana Village from Shuckstack / &quot;30 Jul?&quot;</note>
+  <originInfo>
+    <dateOther>1975 July 30</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">7782-7783</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A41</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A41/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_9</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Rich Mountain ? Annotated</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Rich Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Cold Spring Knob</topic>
+  </subject>
+  <subject>
+    <topic>Sugarland Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Annotated</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <note>Panorama taken looking East from the Rich Mountain Fire Tower with Sugarland Mountain on left and Cold Spring Knob on right. The fire tower is no longer standing.</note>
+  <originInfo>
+    <dateOther>February 5, 1969</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">1552-1553-annotated</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A9</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A9/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_31</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Spence Field</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Spence Field</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <note>View from Spence Field.</note>
+  <originInfo>
+    <dateOther>circa January 1975</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">7110-7111</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A31</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A31/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_20</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from High Rocks</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <subject>
+    <topic>Thunderhead Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Silers Bald</topic>
+  </subject>
+  <subject>
+    <topic>The Narrows</topic>
+  </subject>
+  <note>view from High Rocks.  </note>
+  <note>Panorama taken looking North from High Rocks Fire Tower, which was removed in the 1980s, viewing Thunderhead of left,  with Silers Bald and The Narrows on right.</note>
+  <originInfo>
+    <dateOther>February 1973</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">5123-5129</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A20</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A20/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_27</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Panorama of Lake Fontana ? Annotated</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Shuckstack</topic>
+  </subject>
+  <subject>
+    <topic>Fontana Lake</topic>
+  </subject>
+  <subject>
+    <topic>Annotated</topic>
+  </subject>
+  <note>Hike to Shuckstack where there was a little frost.</note>
+  <note>View of Lake Fontana taken looking Southeast from Shuckstack Fire Tower, which is still standing.</note>
+  <originInfo>
+    <dateOther>February 23, 1974</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">6265-6267-annotated</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A27</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A27/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_46</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of Bryson City from Noland Divide</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Bryson City</topic>
+  </subject>
+  <subject>
+    <topic>Noland Divide</topic>
+  </subject>
+  <subject>
+    <topic>Deep Creek</topic>
+  </subject>
+  <note>Bryson City area from Noland Divide / &quot;On 6 Dec 1975 hiked Deep Creek &amp; Noland Divide&quot;</note>
+  <originInfo>
+    <dateOther>1975 December 06</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">8186-8187</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A46</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A46/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_28</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Panorama of Lake Fontana</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Shuckstack</topic>
+  </subject>
+  <subject>
+    <topic>Fontana Lake</topic>
+  </subject>
+  <note>Hike to Shuckstack where there was a little frost.</note>
+  <note>View of Lake Fontana taken looking Southeast from Shuckstack Fire Tower, which is still standing.</note>
+  <originInfo>
+    <dateOther>February 23, 1974</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">6265-6267</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A28</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A28/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_2</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Sunrise or Sunset in the Smokies</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <note>uncaptioned</note>
+  <originInfo>
+    <dateOther>July 1968</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">1118-1120</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A2</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A2/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_11</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Panorama from Bunker Hill Fire Tower</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Bunker Hill</topic>
+  </subject>
+  <note>Ethel and I hiked up to Bunker Hill FireTower?The middle panorama is looking south east at the Smokies?</note>
+  <note>Panorama taken looking Southeast from Bunker Hill Fire Tower, which no longer exists.</note>
+  <originInfo>
+    <dateOther>November 8, 1969</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">2041-2042</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A11</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A11/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_50</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Unicoi Mountain Range</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <note>Unicoi Mountain Range from bald near Farr Gap / &quot;18 Dec 1976 hiked up Little Slickrock to Little Shuckstack and down Slickrock Creek&quot;</note>
+  <note>Part of 5 picture panorama viewing Unicoi Mountain Range from a bald near Farr Gap.</note>
+  <originInfo>
+    <dateOther>1976 December 18</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">9303-9305</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A50</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A50/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_7</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Rich Mountain ? Annotated</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Rich Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Cold Spring Knob</topic>
+  </subject>
+  <subject>
+    <topic>Gregory Bald</topic>
+  </subject>
+  <subject>
+    <topic>Cades Cove</topic>
+  </subject>
+  <subject>
+    <topic>Annotated</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <note>Panorama taken looking South from the Rich Mountain Fire Tower, which no longer exists, viewing Cold Spring Knob on left, Gregory Bald on right, and Cades Cove below.</note>
+  <originInfo>
+    <dateOther>circa February 5, 1969</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">1549-1550-annotated</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A7</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A7/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_36</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of the Appalachian Trail</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Appalachian Trail</topic>
+  </subject>
+  <subject>
+    <topic>The Jump-off</topic>
+  </subject>
+  <subject>
+    <topic>Mount Kephart</topic>
+  </subject>
+  <subject>
+    <topic>Porters Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Richland Mountain</topic>
+  </subject>
+  <note>A view of the AT to the east from Jumpoff</note>
+  <note>View looking East from the Jump-Off on Mount Kephart looking at Porters Mountain on left and Richland Mountain on right.</note>
+  <originInfo>
+    <dateOther>1975 July 23</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">7731-7732</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A36</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A36/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_6</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of Mount Chapman</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <note>uncaptioned</note>
+  <originInfo>
+    <dateOther>circa Fall 1968</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">1404-1409</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A6</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A6/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_53</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>The Big Pool</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Raven Fork</topic>
+  </subject>
+  <subject>
+    <topic>Breakneck Ridge</topic>
+  </subject>
+  <note>The Big Pool before ascending the ridge / &quot;Laborday, 5 Sep 1977, on my 60th birthday we hiked up Raven Fork and Breakneck Ridge. The sun was just hitting the top along Straight Fork as we got to our trailhead.&quot;</note>
+  <originInfo>
+    <dateOther>1977 September 05</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">9991-9992</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A53</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A53/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_14</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Looking Southeast from Cove Mountain ? Annotated</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Cove Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Mount Collins</topic>
+  </subject>
+  <subject>
+    <topic>Clingmans Dome</topic>
+  </subject>
+  <subject>
+    <topic>Mount Buckley</topic>
+  </subject>
+  <subject>
+    <topic>Annotated</topic>
+  </subject>
+  <note>From Cove Mountain Looking Southeast: Mt Collins, Clingmans Dome, and Mt Buckley.</note>
+  <note>Panorama taken looking Southeast from the Cove Mountain Fire Tower, which is still standing. Sugarland Mountain is in the middleground on the left with Bent Arm on the right.</note>
+  <originInfo>
+    <dateOther>February 20, 1972</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">3714-3715-annotated</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A14</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A14/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_54</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Panorama taken from an unidentified fire tower</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <note>uncaptioned</note>
+  <originInfo>
+    <dateOther>circa 1968</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">1349-1351</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A54</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A54/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_8</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Rich Mountain</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Rich Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Cold Spring Knob</topic>
+  </subject>
+  <subject>
+    <topic>Gregory Bald</topic>
+  </subject>
+  <subject>
+    <topic>Cades Cove</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <note>Panorama taken looking South from the Rich Mountain Fire Tower, which no longer exists, viewing Cold Spring Knob on left, Gregory Bald on right, and Cades Cove below.</note>
+  <originInfo>
+    <dateOther>circa February 5, 1969</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">1549-1550</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A8</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A8/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_37</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Richland Mountain ? Annotated</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Richland Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Mount Guyot</topic>
+  </subject>
+  <subject>
+    <topic>The Sawteeth</topic>
+  </subject>
+  <subject>
+    <topic>Pecks Corner</topic>
+  </subject>
+  <subject>
+    <topic>Annotated</topic>
+  </subject>
+  <note>From Richland Mtn to the east, Guyot in distance</note>
+  <note>View looking Northeast from Richland Mountains with The Sawteeth on left and Pecks Corner on right.</note>
+  <originInfo>
+    <dateOther>1975 July 23</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">7744-7745-annotated</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A37</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A37/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_57</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Telephoto shot of Parson Bald</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Parson Bald</topic>
+  </subject>
+  <subject>
+    <topic>Gregory Bald</topic>
+  </subject>
+  <note>Telephoto shot of Parson Bald from Gregory</note>
+  <note>Two frame telephoto panorama with a view of Parson Bald from Gregory Bald.</note>
+  <originInfo>
+    <dateOther>1974 December 10</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">6949-6951</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A57</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A57/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_33</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of Cades Cove</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Cades Cove</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <note>Panorama of Cades Cove from Rich Mountain.</note>
+  <originInfo>
+    <dateOther>between January 9 and April 26, 1975</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">7255-7256</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A33</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A33/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_18</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of Thunderhead and Clingmans Dome from High Rocks</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <subject>
+    <topic>Thunderhead Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Clingmans Dome</topic>
+  </subject>
+  <note>view from High Rocks.  </note>
+  <note>Panorama taken looking North from High Rocks Fire tower, which was removed in the 1980s, viewing Thunderhead on left and Clingmans Dome on right.</note>
+  <originInfo>
+    <dateOther>February 1973</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">5113-5117</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A18</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A18/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_24</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from High Rocks</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <originInfo>
+    <dateOther>February 1973</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">5141-5143</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A24</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A24/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_10</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Rich Mountain</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Rich Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Cold Spring Knob</topic>
+  </subject>
+  <subject>
+    <topic>Sugarland Mountain</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <note>Panorama taken looking East from the Rich Mountain Fire Tower with Sugarland Mountain on left and Cold Spring Knob on right. The fire tower is no longer standing.</note>
+  <originInfo>
+    <dateOther>February 5, 1969</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">1552-1553</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A10</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A10/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_19</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from High Rocks ? Annotated</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <subject>
+    <topic>Thunderhead Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Silers Bald</topic>
+  </subject>
+  <subject>
+    <topic>The Narrows</topic>
+  </subject>
+  <subject>
+    <topic>Annotated</topic>
+  </subject>
+  <note>view from High Rocks.  </note>
+  <note>Panorama taken looking North from High Rocks Fire Tower, which was removed in the 1980s, viewing Thunderhead of left,  with Silers Bald and The Narrows on right.</note>
+  <originInfo>
+    <dateOther>February 1973</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">5123-5129-annotated</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A19</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A19/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_38</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Richland Mountain</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Richland Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Mount Guyot</topic>
+  </subject>
+  <subject>
+    <topic>The Sawteeth</topic>
+  </subject>
+  <subject>
+    <topic>Pecks Corner</topic>
+  </subject>
+  <note>From Richland Mtn to the east, Guyot in distance</note>
+  <note>View looking Northeast from Richland Mountains with The Sawteeth on left and Pecks Corner on right.</note>
+  <originInfo>
+    <dateOther>1975 July 23</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">7744-7745</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A38</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A38/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_32</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View along Maddron Bald hike</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Mount Le Conte</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <note>A view along Maddron Bald hike of Mt. Le Conte or Snag Mountain.</note>
+  <originInfo>
+    <dateOther>circa January 1975</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">7253-7254</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A32</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A32/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_43</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Spruce Mountain Tower</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Spruce Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Mount Le Conte</topic>
+  </subject>
+  <subject>
+    <topic>Porters Gap</topic>
+  </subject>
+  <subject>
+    <topic>Mount Guyot</topic>
+  </subject>
+  <subject>
+    <topic>Mount Sequoyah</topic>
+  </subject>
+  <subject>
+    <topic>Mount Chapman</topic>
+  </subject>
+  <subject>
+    <topic>Old Black</topic>
+  </subject>
+  <note>From Spruce Mtn tower looking to NW; LeConte, Porter Gap, Sequoyah, Chapman, Guyot - old Black</note>
+  <note>Panorama taken looking Northeast from the Spruce Mountain Fire Tower with Laurel Top at left and Old Black at right. Spruce Mountain Fire Tower is no longer standing.</note>
+  <originInfo>
+    <dateOther>1975 September 9</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">7893-7894</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A43</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A43/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_3</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Panorama taken from an unidentified fire tower</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <note>uncaptioned</note>
+  <originInfo>
+    <dateOther>circa 1968</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">1352-1355</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A3</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A3/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_48</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of Walnut Bottom, Cosby,and  Low Gap</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Walnut Bottom</topic>
+  </subject>
+  <subject>
+    <topic>Cosby</topic>
+  </subject>
+  <subject>
+    <topic>Low Gap</topic>
+  </subject>
+  <note>&quot;The valley we just came up&quot; / &quot;24 Feb 76 Cosby to Low Gap to Walnut Botm.&quot;</note>
+  <originInfo>
+    <dateOther>1976 February 24</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">8840-8842</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A48</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A48/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_15</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Looking Southeast from Cove Mountain</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Cove Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Mount Collins</topic>
+  </subject>
+  <subject>
+    <topic>Clingmans Dome</topic>
+  </subject>
+  <subject>
+    <topic>Mount Buckley</topic>
+  </subject>
+  <note>From Cove Mountain Looking Southeast: Mt Collins, Clingmans Dome, and Mt Buckley.</note>
+  <note>Panorama taken looking Southeast from the Cove Mountain Fire Tower, which is still standing. Sugarland Mountain is in the middleground on the left with Bent Arm on the right.</note>
+  <originInfo>
+    <dateOther>February 20, 1972</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">3714-3715</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A15</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A15/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_23</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from High Rocks</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <note>uncaptioned</note>
+  <originInfo>
+    <dateOther>February 1973</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">5139-5140</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A23</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A23/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_45</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Cades Cove Loop</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Cades Cove</topic>
+  </subject>
+  <subject>
+    <topic>Rich Mountain</topic>
+  </subject>
+  <note>Cades Cove from loop Tr / &quot;1 Dec 1975 a loop trail hike of Rich Mountain&quot;</note>
+  <originInfo>
+    <dateOther>1975 December 01</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">8171-8172</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A45</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A45/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_1</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Myrtle Point</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Myrtle Point</topic>
+  </subject>
+  <subject>
+    <topic>Newfound Gap</topic>
+  </subject>
+  <subject>
+    <topic>Clingmans Dome</topic>
+  </subject>
+  <subject>
+    <topic>Mount Le Conte</topic>
+  </subject>
+  <note>&quot;This view greeted us on Myrtle Point. Newfound Gap on left center and Clingman's Dome on the right.&quot; / &quot;On 28 Sep 1977 we drove to Newfound Gap with low clouds hanging over Mt Leconte.&quot;</note>
+  <originInfo>
+    <dateOther>1977 September 28</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">10033-10034</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A1</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A1/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_49</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View from Hemphill bald</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Hemphill Bald</topic>
+  </subject>
+  <note>View from Hemphill bald. / 19 Jul 1976 W Brinegar and M Stevenson and I hiked from Paul's gap into Cataloochee valley.&quot;</note>
+  <originInfo>
+    <dateOther>1976 July 19</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">8841-8842</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A49</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A49/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_40</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Panorama from High Rocks to Fontana Lake</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <subject>
+    <topic>Fontana Lake</topic>
+  </subject>
+  <note>Panorama: From High Rocks to Fontana Lake</note>
+  <originInfo>
+    <dateOther>1975 July 30</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">7768-7769</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A40</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A40/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_25</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of Little Shuckstack</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Shuckstack</topic>
+  </subject>
+  <subject>
+    <topic>Fontana Lake</topic>
+  </subject>
+  <subject>
+    <topic>Snow and ice</topic>
+  </subject>
+  <note>Hike to Shuckstack where there was a little frost.</note>
+  <note>Panorama taken looking West from the Shuckstack Fire Tower of the Little Shuckstack and Lake Fontana to the right.</note>
+  <originInfo>
+    <dateOther>February 23, 1974</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">6255-6257</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A25</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A25/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_52</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Happy Valley Road near the Foothills Parkway</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>Happy Valley</topic>
+  </subject>
+  <note>On Happy Valley road near Foothill Pkw / &quot;14 May 1977 L Webb, R Collins, M Stevenson on trail to Stratton Bald from Joyce Kilmer&quot;</note>
+  <originInfo>
+    <dateOther>1977 May 14</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="issn">9728-9729</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A52</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A52/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record><record>
+<header>
+<identifier>kintner_17</identifier>
+<datestamp>2020-08-11T23:30:48Z</datestamp>
+<setSpec>kintner</setSpec>
+</header>
+<metadata>
+
+<mods version="3.2" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>View of Thunderhead and Clingmans Dome from High Rocks ? Annotated</title>
+  </titleInfo>
+  <name>
+    <namePart>Elgin P. Kintner, M.D.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">image</genre>
+  <subject>
+    <topic>High Rocks</topic>
+  </subject>
+  <subject>
+    <topic>Thunderhead Mountain</topic>
+  </subject>
+  <subject>
+    <topic>Clingmans Dome</topic>
+  </subject>
+  <subject>
+    <topic>Annotated</topic>
+  </subject>
+  <note>view from High Rocks.  </note>
+  <note>Panorama taken looking North from High Rocks Fire tower, which was removed in the 1980s, viewing Thunderhead on left and Clingmans Dome on right.</note>
+  <originInfo>
+    <dateOther>February 1973</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <identifier type="local">5113-5117-annotated</identifier>
+  <accessCondition>Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.</accessCondition>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A17</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A17/datastream/TN/view</url>
+  </location>
+</mods>
+</metadata>
+</record>
+</repository>
