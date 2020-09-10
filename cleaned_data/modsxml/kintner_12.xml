@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">kintner_12</identifier>
+   <titleInfo>
+      <title>Looking Southeast from Cove Mountain, Annotated</title>
+   </titleInfo>
+   <abstract>From Cove Mountain Looking Southeast: Mt Le Conte, Bull Head, Newfound Gap, and Mt Mingus.</abstract>
+   <name valueURI="http://id.loc.gov/authorities/names/n92038212"
+         authority="naf">
+      <namePart>Kintner, Elgin P.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>February 20, 1972</dateCreated>
+      <dateCreated encoding="edtf">1972-02-20</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85101295">
+      <topic>Photography, Panoramic</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85054004">
+      <topic>Geography--Terminology</topic>
+   </subject>
+   <subject authority="geonames"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+      <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4615783">
+      <geographic>Cove Mountain</geographic>
+      <cartographics>
+         <coordinates>35.70926, -83.58711</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4635946">
+      <geographic>Mount Le Conte</geographic>
+      <cartographics>
+         <coordinates>35.65435, -83.43672</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4609727">
+      <geographic>Bullhead</geographic>
+      <cartographics>
+         <coordinates>35.66232, -83.48822</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4482056">
+      <geographic>Newfound Gap</geographic>
+      <cartographics>
+         <coordinates>35.61121, -83.42488</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4642124">
+      <geographic>Mount Mingus</geographic>
+      <cartographics>
+         <coordinates>35.61772, -83.45909</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4654147">
+      <geographic>Rocky Spur</geographic>
+      <cartographics>
+         <coordinates>35.66259, -83.45099</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4615783">
+      <geographic>Cove Mountain</geographic>
+      <cartographics>
+         <coordinates>35.70926, -83.58711</coordinates>
+      </cartographics>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
