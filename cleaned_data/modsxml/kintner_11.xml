@@ -9,6 +9,7 @@
       <title>Panorama from Bunker Hill Fire Tower</title>
    </titleInfo>
    <abstract>Ethel and I hiked up to Bunker Hill FireTower?The middle panorama is looking south east at the Smokies?</abstract>
+   <abstract>Panorama taken looking Southeast from Bunker Hill Fire Tower, which no longer exists.</abstract>
    <name valueURI="http://id.loc.gov/authorities/names/n92038212"
          authority="naf">
       <namePart>Kintner, Elgin P.</namePart>
@@ -21,6 +22,9 @@
       <dateCreated>November 8, 1969</dateCreated>
       <dateCreated encoding="edtf">1969-11-08</dateCreated>
    </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
       <internetMediaType>image/jpeg</internetMediaType>
@@ -29,7 +33,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85101295">
       <topic>Photography, Panoramic</topic>
    </subject>
-   <subject authority="geonames"
+   <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
       <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
    </subject>
@@ -40,6 +44,20 @@
       </cartographics>
    </subject>
    <typeOfResource>still image</typeOfResource>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title>
+      </titleInfo>
+      <identifier>MS.3686</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Panoramic Images of Elgin P. Kintner</title>
+      </titleInfo>
+   </relatedItem>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>

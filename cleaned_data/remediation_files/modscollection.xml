@@ -7,6 +7,8 @@
 
 <abstract>From High Rocks to Fontana Lake / "30 Jul hiked from Forney Creek back to dam."</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -15,13 +17,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4471055"><geographic>High Rocks</geographic><cartographics><coordinates>35.49973, -83.62115</coordinates></cartographics></subject>
 
@@ -41,6 +45,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -52,6 +62,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -60,13 +72,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -86,6 +100,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -97,6 +117,8 @@
 
 <abstract>Telephoto shot of Parson Bald from Gregory.</abstract>
 
+<abstract>Two frame telephoto panorama with a view of Parson Bald from Gregory Bald.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -105,13 +127,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4648206"><geographic>Parson Bald</geographic><cartographics><coordinates>35.51592, -83.88268</coordinates></cartographics></subject>
 
@@ -131,6 +155,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -142,6 +172,8 @@
 
 <abstract>From Cove Mountain Looking Southeast: Mt Le Conte, Bull Head, Newfound Gap, and Mt Mingus.</abstract>
 
+<abstract>Panorama taken looking Southeast from the Cove Mountain Fire Tower, which is still standing, viewing Rocky Spur on the left and Mount Mingus on the right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -150,13 +182,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004"><topic>Geography--Terminology</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4615783"><geographic>Cove Mountain</geographic><cartographics><coordinates>35.70926, -83.58711</coordinates></cartographics></subject>
 
@@ -176,6 +210,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -187,6 +227,8 @@
 
 <abstract>Hike to Shuckstack where there was a little frost.</abstract>
 
+<abstract>Panorama taken looking West from the Shuckstack Fire Tower, which is still standing.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -195,13 +237,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85123771"><topic>Snow</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4491581"><geographic>Shuckstack</geographic><cartographics><coordinates>35.48546, -83.81507</coordinates></cartographics></subject>
 
@@ -221,6 +265,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -232,6 +282,8 @@
 
 <abstract>We had lunch on top of Hangover.  You can see Clingmans Dome, 30 miles away!</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -240,13 +292,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -266,6 +320,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -277,6 +337,8 @@
 
 <abstract>From Cove Mountain Looking Southeast: Mt Le Conte, Bull Head, Newfound Gap, and Mt Mingus.</abstract>
 
+<abstract>Panorama taken looking Southeast from the Cove Mountain Fire Tower, which is still standing, viewing Rocky Spur on the left and Mount Mingus on the right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -285,13 +347,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4615783"><geographic>Cove Mountain</geographic><cartographics><coordinates>35.70926, -83.58711</coordinates></cartographics></subject>
 
@@ -311,6 +375,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -322,6 +392,8 @@
 
 <abstract>Early morning on Kephart Prong / "23 Jul 1975, Kephart Pr Sweat Heifer, AT, Richland Mtn, Grassy Br."</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -330,13 +402,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -356,6 +430,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -367,6 +447,8 @@
 
 <abstract>Clingman's Dome from Thomas Divide Trail / "9 Feb 1976 hiked Newton Bald, Thomas Divide."</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -375,13 +457,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4614210"><geographic>Clingmans Dome</geographic><cartographics><coordinates>35.56287, -83.4985</coordinates></cartographics></subject>
 
@@ -401,6 +485,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -412,6 +502,8 @@
 
 <abstract>From Cove Mountain Looking Southwest: Round Top and Townsend.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -420,13 +512,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4615783"><geographic>Cove Mountain</geographic><cartographics><coordinates>35.70926, -83.58711</coordinates></cartographics></subject>
 
@@ -446,6 +540,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -457,6 +557,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -465,13 +567,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -491,6 +595,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -502,6 +612,8 @@
 
 <abstract>A view of the AT to the east from Jumpoff.</abstract>
 
+<abstract>View looking East from the Jump-Off on Mount Kephart looking at Porters Mountain on left and Richland Mountain on right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -510,13 +622,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004"><topic>Geography--Terminology</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4602931"><geographic>Appalachian Trail</geographic><cartographics><coordinates>35.54175, -83.79156</coordinates></cartographics></subject>
 
@@ -536,6 +650,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -547,6 +667,8 @@
 
 <abstract>From Spruce Mtn tower looking to NW; LeConte, Porter Gap, Sequoyah, Chapman, Guyot - old Black.</abstract>
 
+<abstract>Panorama taken looking Northeast from the Spruce Mountain Fire Tower with Laurel Top at left and Old Black at right. Spruce Mountain Fire Tower is no longer standing.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -555,13 +677,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004"><topic>Geography--Terminology</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4659605"><geographic>Spruce Mountain</geographic><cartographics><coordinates>35.60009, -83.87601</coordinates></cartographics></subject>
 
@@ -581,6 +705,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -592,6 +722,8 @@
 
 <abstract>(69) "High Rocks and Welch Ridge south Silers Bald" / "On Oct 21?" / (70) "Forney Ridge in distance from Silers Bald" / "On Oct 21?"</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -600,13 +732,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4471055"><geographic>High Rocks</geographic><cartographics><coordinates>35.49973, -83.62115</coordinates></cartographics></subject>
 
@@ -626,6 +760,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -637,6 +777,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -645,13 +787,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -671,6 +815,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -682,6 +832,8 @@
 
 <abstract>Then as we looked to the north we saw the rest Slickrock valley and Chilhowees in distance. / "9 Apr 1977?"</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -690,13 +842,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -716,6 +870,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -727,6 +887,8 @@
 
 <abstract>Thermal inversion, 40 below and 55 on top, looking toward Le Conte.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -735,13 +897,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4615783"><geographic>Cove Mountain</geographic><cartographics><coordinates>35.70926, -83.58711</coordinates></cartographics></subject>
 
@@ -761,6 +925,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -772,6 +942,8 @@
 
 <abstract>Fontana Village from Shuckstack / "30 Jul?"</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -780,13 +952,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4466682"><geographic>Fontana Old Town</geographic><cartographics><coordinates>35.43564, -83.81906</coordinates></cartographics></subject>
 
@@ -806,6 +980,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -817,6 +997,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+<abstract>Panorama taken looking East from the Rich Mountain Fire Tower with Sugarland Mountain on left and Cold Spring Knob on right. The fire tower is no longer standing.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -825,13 +1007,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004"><topic>Geography--Terminology</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4652937"><geographic>Rich Mountain</geographic><cartographics><coordinates>35.6287, -83.7849</coordinates></cartographics></subject>
 
@@ -851,6 +1035,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -862,6 +1052,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+<abstract>View from Spence Field.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -870,13 +1062,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -896,6 +1090,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -907,6 +1107,8 @@
 
 <abstract>View from High Rocks.</abstract>
 
+<abstract>Panorama taken looking North from High Rocks Fire Tower, which was removed in the 1980s, viewing Thunderhead of left,  with Silers Bald and The Narrows on right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -915,13 +1117,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4471055"><geographic>High Rocks</geographic><cartographics><coordinates>35.49973, -83.62115</coordinates></cartographics></subject>
 
@@ -941,6 +1145,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -952,6 +1162,8 @@
 
 <abstract>Hike to Shuckstack where there was a little frost.</abstract>
 
+<abstract>View of Lake Fontana taken looking Southeast from Shuckstack Fire Tower, which is still standing.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -960,13 +1172,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004"><topic>Geography--Terminology</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4491581"><geographic>Shuckstack</geographic><cartographics><coordinates>35.48546, -83.81507</coordinates></cartographics></subject>
 
@@ -986,6 +1200,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -997,6 +1217,8 @@
 
 <abstract>Bryson City area from Noland Divide / "On 6 Dec 1975 hiked Deep Creek &amp; Noland Divide."</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1005,13 +1227,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/7170708"><geographic>Bryson City</geographic><cartographics><coordinates>35.42619, -83.44737</coordinates></cartographics></subject>
 
@@ -1031,6 +1255,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1042,6 +1272,8 @@
 
 <abstract>Hike to Shuckstack where there was a little frost.</abstract>
 
+<abstract>View of Lake Fontana taken looking Southeast from Shuckstack Fire Tower, which is still standing.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1050,13 +1282,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4491581"><geographic>Shuckstack</geographic><cartographics><coordinates>35.48546, -83.81507</coordinates></cartographics></subject>
 
@@ -1076,6 +1310,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1087,6 +1327,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1095,13 +1337,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -1121,6 +1365,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1132,6 +1382,8 @@
 
 <abstract>Ethel and I hiked up to Bunker Hill FireTower?The middle panorama is looking south east at the Smokies?</abstract>
 
+<abstract>Panorama taken looking Southeast from Bunker Hill Fire Tower, which no longer exists.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1140,13 +1392,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -1166,6 +1420,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1177,6 +1437,8 @@
 
 <abstract>Unicoi Mountain Range from bald near Farr Gap / "18 Dec 1976 hiked up Little Slickrock to Little Shuckstack and down Slickrock Creek."</abstract>
 
+<abstract>Part of 5 picture panorama viewing Unicoi Mountain Range from a bald near Farr Gap.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1185,13 +1447,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -1211,6 +1475,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1222,6 +1492,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+<abstract>Panorama taken looking South from the Rich Mountain Fire Tower, which no longer exists, viewing Cold Spring Knob on left, Gregory Bald on right, and Cades Cove below.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1230,13 +1502,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004"><topic>Geography--Terminology</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4652937"><geographic>Rich Mountain</geographic><cartographics><coordinates>35.6287, -83.7849</coordinates></cartographics></subject>
 
@@ -1256,6 +1530,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1267,6 +1547,8 @@
 
 <abstract>A view of the AT to the east from Jumpoff.</abstract>
 
+<abstract>View looking East from the Jump-Off on Mount Kephart looking at Porters Mountain on left and Richland Mountain on right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1275,13 +1557,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4602931"><geographic>Appalachian Trail</geographic><cartographics><coordinates>35.54175, -83.79156</coordinates></cartographics></subject>
 
@@ -1301,6 +1585,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1312,6 +1602,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1320,13 +1612,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -1346,6 +1640,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1357,6 +1657,8 @@
 
 <abstract>The Big Pool before ascending the ridge / "Laborday, 5 Sep 1977, on my 60th birthday we hiked up Raven Fork and Breakneck Ridge. The sun was just hitting the top along Straight Fork as we got to our trailhead."</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1365,13 +1667,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4487239"><geographic>Raven Fork</geographic><cartographics><coordinates>35.51177, -83.3021</coordinates></cartographics></subject>
 
@@ -1391,6 +1695,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1402,6 +1712,8 @@
 
 <abstract>From Cove Mountain Looking Southeast: Mt Collins, Clingmans Dome, and Mt Buckley.</abstract>
 
+<abstract>Panorama taken looking Southeast from the Cove Mountain Fire Tower, which is still standing. Sugarland Mountain is in the middleground on the left with Bent Arm on the right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1410,13 +1722,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004"><topic>Geography--Terminology</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4615783"><geographic>Cove Mountain</geographic><cartographics><coordinates>35.70926, -83.58711</coordinates></cartographics></subject>
 
@@ -1436,6 +1750,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1447,6 +1767,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1455,13 +1777,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -1481,6 +1805,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1492,6 +1822,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+<abstract>Panorama taken looking South from the Rich Mountain Fire Tower, which no longer exists, viewing Cold Spring Knob on left, Gregory Bald on right, and Cades Cove below.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1500,13 +1832,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4652937"><geographic>Rich Mountain</geographic><cartographics><coordinates>35.6287, -83.7849</coordinates></cartographics></subject>
 
@@ -1526,6 +1860,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1537,6 +1877,8 @@
 
 <abstract>From Richland Mtn to the east, Guyot in distance.</abstract>
 
+<abstract>View looking Northeast from Richland Mountains with The Sawteeth on left and Pecks Corner on right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1545,13 +1887,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004"><topic>Geography--Terminology</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4487934"><geographic>Richland Mountain</geographic><cartographics><coordinates>35.63285, -83.36385</coordinates></cartographics></subject>
 
@@ -1571,6 +1915,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1582,6 +1932,8 @@
 
 <abstract>Telephoto shot of Parson Bald from Gregory.</abstract>
 
+<abstract>Two frame telephoto panorama with a view of Parson Bald from Gregory Bald.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1590,13 +1942,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4648206"><geographic>Parson Bald</geographic><cartographics><coordinates>35.51592, -83.88268</coordinates></cartographics></subject>
 
@@ -1616,6 +1970,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1627,6 +1987,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+<abstract>Panorama of Cades Cove from Rich Mountain.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1635,13 +1997,15 @@
 <dateCreated encoding="edtf" point="start">1975-01-09</dateCreated><dateCreated encoding="edtf" point="end">1975-04-26</dateCreated>
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -1661,6 +2025,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1672,6 +2042,8 @@
 
 <abstract>View from High Rocks.</abstract>
 
+<abstract>Panorama taken looking North from High Rocks Fire tower, which was removed in the 1980s, viewing Thunderhead on left and Clingmans Dome on right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1680,13 +2052,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4471055"><geographic>High Rocks</geographic><cartographics><coordinates>35.49973, -83.62115</coordinates></cartographics></subject>
 
@@ -1706,6 +2080,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1717,6 +2097,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1725,13 +2107,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -1751,6 +2135,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1762,6 +2152,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+<abstract>Panorama taken looking East from the Rich Mountain Fire Tower with Sugarland Mountain on left and Cold Spring Knob on right. The fire tower is no longer standing.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1770,13 +2162,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4652937"><geographic>Rich Mountain</geographic><cartographics><coordinates>35.6287, -83.7849</coordinates></cartographics></subject>
 
@@ -1796,6 +2190,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1807,6 +2207,8 @@
 
 <abstract>View from High Rocks.</abstract>
 
+<abstract>Panorama taken looking North from High Rocks Fire Tower, which was removed in the 1980s, viewing Thunderhead of left,  with Silers Bald and The Narrows on right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1815,13 +2217,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004"><topic>Geography--Terminology</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4471055"><geographic>High Rocks</geographic><cartographics><coordinates>35.49973, -83.62115</coordinates></cartographics></subject>
 
@@ -1841,6 +2245,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1852,6 +2262,8 @@
 
 <abstract>From Richland Mtn to the east, Guyot in distance.</abstract>
 
+<abstract>View looking Northeast from Richland Mountains with The Sawteeth on left and Pecks Corner on right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1860,13 +2272,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4487934"><geographic>Richland Mountain</geographic><cartographics><coordinates>35.63285, -83.36385</coordinates></cartographics></subject>
 
@@ -1886,6 +2300,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1897,6 +2317,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+<abstract>A view along Maddron Bald hike of Mt. Le Conte or Snag Mountain.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1905,13 +2327,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -1931,6 +2355,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1942,6 +2372,8 @@
 
 <abstract>From Spruce Mtn tower looking to NW; LeConte, Porter Gap, Sequoyah, Chapman, Guyot - old Black.</abstract>
 
+<abstract>Panorama taken looking Northeast from the Spruce Mountain Fire Tower with Laurel Top at left and Old Black at right. Spruce Mountain Fire Tower is no longer standing.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1950,13 +2382,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4659605"><geographic>Spruce Mountain</geographic><cartographics><coordinates>35.60009, -83.87601</coordinates></cartographics></subject>
 
@@ -1976,6 +2410,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -1987,6 +2427,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -1995,13 +2437,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -2021,6 +2465,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -2032,6 +2482,8 @@
 
 <abstract>"The valley we just came up" / "24 Feb 76 Cosby to Low Gap to Walnut Botm."</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -2040,13 +2492,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4497426"><geographic>Walnut Bottom</geographic><cartographics><coordinates>35.72277, -83.16342</coordinates></cartographics></subject>
 
@@ -2066,6 +2520,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -2077,6 +2537,8 @@
 
 <abstract>From Cove Mountain Looking Southeast: Mt Collins, Clingmans Dome, and Mt Buckley.</abstract>
 
+<abstract>Panorama taken looking Southeast from the Cove Mountain Fire Tower, which is still standing. Sugarland Mountain is in the middleground on the left with Bent Arm on the right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -2085,13 +2547,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4615783"><geographic>Cove Mountain</geographic><cartographics><coordinates>35.70926, -83.58711</coordinates></cartographics></subject>
 
@@ -2111,6 +2575,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -2122,6 +2592,8 @@
 
 <abstract>Uncaptioned.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -2130,13 +2602,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -2156,6 +2630,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -2167,6 +2647,8 @@
 
 <abstract>Cades Cove from loop Tr / "1 Dec 1975 a loop trail hike of Rich Mountain."</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -2175,13 +2657,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4610417"><geographic>Cades Cove</geographic><cartographics><coordinates>35.59426, -83.84184</coordinates></cartographics></subject>
 
@@ -2201,6 +2685,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -2212,6 +2702,8 @@
 
 <abstract>"This view greeted us on Myrtle Point. Newfound Gap on left center and Clingman's Dome on the right." / "On 28 Sep 1977 we drove to Newfound Gap with low clouds hanging over Mt Leconte."</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -2220,13 +2712,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4644461"><geographic>Myrtle Point</geographic><cartographics><coordinates>35.65371, -83.43155</coordinates></cartographics></subject>
 
@@ -2246,6 +2740,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -2257,6 +2757,8 @@
 
 <abstract>View from Hemphill bald. / 19 Jul 1976 W Brinegar and M Stevenson and I hiked from Paul's gap into Cataloochee valley."</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -2265,13 +2767,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -2291,6 +2795,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -2302,6 +2812,8 @@
 
 <abstract>Panorama: From High Rocks to Fontana Lake.</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -2310,13 +2822,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4471055"><geographic>High Rocks</geographic><cartographics><coordinates>35.49973, -83.62115</coordinates></cartographics></subject>
 
@@ -2336,6 +2850,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -2347,6 +2867,8 @@
 
 <abstract>Hike to Shuckstack where there was a little frost.</abstract>
 
+<abstract>Panorama taken looking West from the Shuckstack Fire Tower of the Little Shuckstack and Lake Fontana to the right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -2355,13 +2877,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85123771"><topic>Snow</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4491581"><geographic>Shuckstack</geographic><cartographics><coordinates>35.48546, -83.81507</coordinates></cartographics></subject>
 
@@ -2381,6 +2905,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -2392,6 +2922,8 @@
 
 <abstract>On Happy Valley road near Foothill Pkw / "14 May 1977 L Webb, R Collins, M Stevenson on trail to Stratton Bald from Joyce Kilmer."</abstract>
 
+
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -2400,13 +2932,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 
 
@@ -2426,6 +2960,12 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -2437,6 +2977,8 @@
 
 <abstract>View from High Rocks.</abstract>
 
+<abstract>Panorama taken looking North from High Rocks Fire tower, which was removed in the 1980s, viewing Thunderhead on left and Clingmans Dome on right.</abstract>
+
 <name valueURI="http://id.loc.gov/authorities/names/n92038212" authority="naf"><namePart>Kintner, Elgin P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/entities/roles/creator">Creator</roleTerm></role></name>
 
 <originInfo>
@@ -2445,13 +2987,15 @@
 
 </originInfo>
 
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jpeg</internetMediaType></physicalDescription>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295"><topic>Photography, Panoramic</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004"><topic>Geography--Terminology</topic></subject>
 
-<subject authority="geonames" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008"><geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic></subject>
 
 <subject authority="geonames" valueURI="http://sws.geonames.org/4471055"><geographic>High Rocks</geographic><cartographics><coordinates>35.49973, -83.62115</coordinates></cartographics></subject>
 
@@ -2471,8 +3015,13 @@
 
 <typeOfResource>still image</typeOfResource>
 
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title></titleInfo><identifier>MS.3686</identifier></relatedItem>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Panoramic Images of Elgin P. Kintner</title></titleInfo></relatedItem>
+
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-</modsCollection>
+</mods></modsCollection>
